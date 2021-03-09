@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-source-yotpo",
+  "name": "throttleup-gatsby-source-yotpo",
   "version": "0.8.14",
   "description": "Source plugin for pulling reviews from Yotpo",
   "scripts": {
